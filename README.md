@@ -175,5 +175,5 @@ curl -I http://localhost
 ---
 
 ## Autor
-
+Renan dos Santos Teixeira
 Projeto desenvolvido como solução do desafio de **Linux / IaC** da DIO — provisionamento automatizado de servidor web com Apache.
